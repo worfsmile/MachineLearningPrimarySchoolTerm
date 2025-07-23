@@ -19,3 +19,8 @@ linear independence
 $MSE = \frac{1}{n}\sum^{n}_{i=1}(Y_{i}-\hat{Y}_{i})^{2}$ 
 
 $MAE$
+
+
+empirical risk minimization (ERM)
+
+generalized risk minimization (GMM)
